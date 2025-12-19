@@ -1,5 +1,5 @@
 # labbit-releases
-Labbit is Listening Your Voice!
+**Labbit turns your speech into screen-aware writing; it's ready for Slack, Notion, and whatever’s next.**
 
 made by Ryogo Iida
 
